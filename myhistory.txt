@@ -1,0 +1,24 @@
+   1 try { . "c:\Users\sania\AppData\Local\Programs\Microsoft VS Code\7e7950df89\resources\app\out\vs\workbench\contrib\terminal\common\...
+   2 history                                                                                                                               
+   3 git remote -v                                                                                                                         
+   4 git remote -v                                                                                                                         
+   5 clear                                                                                                                                 
+   6 git push origin master                                                                                                                
+   7 git log                                                                                                                               
+   8 clear                                                                                                                                 
+   9 pwd                                                                                                                                   
+  10 cd ..                                                                                                                                 
+  11 ls                                                                                                                                    
+  12 cd .\Demo\                                                                                                                            
+  13 pwd                                                                                                                                   
+  14 mkdir git-demo-new                                                                                                                    
+  15 clear                                                                                                                                 
+  16 git clone https://github.com/tajuddin991/taj_git_practice.git                                                                         
+  17 history                                                                                                                               
+  18 clear                                                                                                                                 
+  19 pwd                                                                                                                                   
+  20 cd C:\Users\sania\OneDrive\Desktop\Devops\                                                                                            
+  21 ls                                                                                                                                    
+  22 cd Taj_git_practice                                                                                                                   
+  23 ls                                                                                                                                    
+  24 clear                                                                                                                                 
