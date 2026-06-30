@@ -22,3 +22,4 @@
   22 cd Taj_git_practice                                                                                                                   
   23 ls                                                                                                                                    
   24 clear                                                                                                                                 
+  26 clear
